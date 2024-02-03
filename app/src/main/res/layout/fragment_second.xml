@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16sp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".ui.fragments.FirstFragment">
+
+    <TextView
+        android:id="@+id/edit_text_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/user_name" />
+
+    <TextView
+        android:id="@+id/accelerate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/age" />
+
+    <TextView
+        android:id="@+id/tag_unhandled_key_event_manager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/email" />
+
+    <TextView
+        android:id="@+id/search_close_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/password" />
+
+    <Button
+        android:id="@+id/mtrl_picker_text_input_range_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/go" />
+</LinearLayout>

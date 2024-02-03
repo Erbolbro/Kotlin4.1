@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kotlin4.1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">User name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="continue_s">Continue</string>
+    <string name="go">перейти</string>
+    <string name="con">продолжить</string>
+
+</resources>
